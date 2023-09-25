@@ -1,0 +1,12 @@
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\external\imgui\imgui.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\imgui.obj
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\external\imgui\imgui_demo.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\imgui_demo.obj
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\external\imgui\imgui_draw.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\imgui_draw.obj
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\external\imgui\imgui_impl_dx11.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\imgui_impl_dx11.obj
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\external\imgui\imgui_impl_win32.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\imgui_impl_win32.obj
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\external\imgui\imgui_tables.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\imgui_tables.obj
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\external\imgui\imgui_widgets.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\imgui_widgets.obj
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\src\gui\gui.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\gui.obj
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\src\windows\minimenu.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\minimenu.obj
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\src\windows\projectcreator.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\projectcreator.obj
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\src\windows\projectpicker.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\projectpicker.obj
+C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\src\main.cpp;C:\Users\kappa\Documents\VS 2022\Projects\RobloxMG\build\intermediates\main.obj
