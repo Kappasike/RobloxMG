@@ -171,6 +171,7 @@ namespace RMG{
 			ImGui::PushFont(ImGui::GetIO().Fonts->Fonts[1]);
 			ImGui::Text("Project Creator");
 			ImGui::PopFont();
+			ImGui::SetCursorPos(ImVec2(300.f, 150.f));
 			ImGui::Image(obby_button_texture, ImVec2(641.f, 123.f));
 			ImGui::SetCursorPos(ImVec2(100.f, 200.f));
 			ImGui::Text("Project Name: ");
